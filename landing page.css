@@ -1,0 +1,40 @@
+ html { 
+    background: url(AMG\ benz.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+          button{
+            background-color:#F05F44 ;
+            color: white;
+            width: 25em;
+            padding: 25px;
+          font-weight: 800;
+            border-radius:100px ;
+            font-size: large;
+            align-items: baseline;
+            justify-content: end;
+            text-transform: uppercase;
+            cursor: pointer;
+            border-color: gold;
+            
+        }
+        button :hover{
+          background-color: aqua;
+          border-width: 3px;
+         
+        }
+        h1{
+          color: white;
+          text-transform: uppercase;
+          font-size: 3em;
+        }
+        hr{
+          border-color: #F05F44;
+          max-width: 65px;
+        }
+        header{
+          align-items: center;
+          justify-content: center;
+        }
